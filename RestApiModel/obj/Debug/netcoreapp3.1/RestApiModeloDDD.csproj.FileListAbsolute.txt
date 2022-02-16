@@ -1,0 +1,204 @@
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\RestApiModeloDDD.exe
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\RestApiModeloDDD.deps.json
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\RestApiModeloDDD.runtimeconfig.json
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\RestApiModeloDDD.runtimeconfig.dev.json
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\RestApiModeloDDD.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\RestApiModeloDDD.pdb
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Views.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Views.pdb
+C:\Users\Usuário\source\repos\RestApiModel\obj\Debug\netcoreapp3.1\RestApiModeloDDD.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\RestApiModel\obj\Debug\netcoreapp3.1\RestApiModeloDDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\RestApiModel\obj\Debug\netcoreapp3.1\RestApiModeloDDD.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\RestApiModel\obj\Debug\netcoreapp3.1\RestApiModeloDDD.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\RestApiModel\obj\Debug\netcoreapp3.1\RestApiModeloDDD.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\RestApiModel\obj\Debug\netcoreapp3.1\RestApiModeloDDD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuário\source\repos\RestApiModel\obj\Debug\netcoreapp3.1\RestApiModeloDDD.RazorAssemblyInfo.cache
+C:\Users\Usuário\source\repos\RestApiModel\obj\Debug\netcoreapp3.1\RestApiModeloDDD.RazorAssemblyInfo.cs
+C:\Users\Usuário\source\repos\RestApiModel\obj\Debug\netcoreapp3.1\staticwebassets\RestApiModeloDDD.StaticWebAssets.Manifest.cache
+C:\Users\Usuário\source\repos\RestApiModel\obj\Debug\netcoreapp3.1\staticwebassets\RestApiModeloDDD.StaticWebAssets.xml
+C:\Users\Usuário\source\repos\RestApiModel\obj\Debug\netcoreapp3.1\scopedcss\bundle\RestApiModeloDDD.styles.css
+C:\Users\Usuário\source\repos\RestApiModel\obj\Debug\netcoreapp3.1\RestApiModeloDDD.TagHelpers.input.cache
+C:\Users\Usuário\source\repos\RestApiModel\obj\Debug\netcoreapp3.1\RestApiModeloDDD.TagHelpers.output.cache
+C:\Users\Usuário\source\repos\RestApiModel\obj\Debug\netcoreapp3.1\RestApiModeloDDD.RazorCoreGenerate.cache
+C:\Users\Usuário\source\repos\RestApiModel\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Usuário\source\repos\RestApiModel\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Usuário\source\repos\RestApiModel\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Usuário\source\repos\RestApiModel\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Usuário\source\repos\RestApiModel\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Usuário\source\repos\RestApiModel\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Usuário\source\repos\RestApiModel\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Usuário\source\repos\RestApiModel\obj\Debug\netcoreapp3.1\RestApiModeloDDD.RazorTargetAssemblyInfo.cache
+C:\Users\Usuário\source\repos\RestApiModel\obj\Debug\netcoreapp3.1\RestApiModeloDDD.RazorTargetAssemblyInfo.cs
+C:\Users\Usuário\source\repos\RestApiModel\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Views.pdb
+C:\Users\Usuário\source\repos\RestApiModel\obj\Debug\netcoreapp3.1\RestApiModeloDDD.dll
+C:\Users\Usuário\source\repos\RestApiModel\obj\Debug\netcoreapp3.1\RestApiModeloDDD.pdb
+C:\Users\Usuário\source\repos\RestApiModel\obj\Debug\netcoreapp3.1\RestApiModeloDDD.genruntimeconfig.cache
+C:\Users\Usuário\source\repos\RestApiModel\obj\Debug\netcoreapp3.1\RestApiModeloDDD.csproj.CopyComplete
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuário\source\repos\RestApiModel\obj\Debug\netcoreapp3.1\RestApiModeloDDD.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\ServiceStack.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\ServiceStack.Client.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\ServiceStack.Common.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\ServiceStack.Interfaces.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\ServiceStack.Text.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\System.Reflection.DispatchProxy.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Application.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Service.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Infrastructure.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Infrastructure.pdb
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Application.pdb
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.pdb
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.pdb
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Service.pdb
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuário\source\repos\RestApiModel\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\RestApiModeloDDD.exe
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\RestApiModeloDDD.deps.json
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\RestApiModeloDDD.runtimeconfig.json
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\RestApiModeloDDD.runtimeconfig.dev.json
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\RestApiModeloDDD.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\RestApiModeloDDD.pdb
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Views.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Views.pdb
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\ServiceStack.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\ServiceStack.Client.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\ServiceStack.Common.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\ServiceStack.Interfaces.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\ServiceStack.Text.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\System.Reflection.DispatchProxy.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Application.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Service.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Infrastructure.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Infrastructure.pdb
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Application.pdb
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.pdb
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.pdb
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Service.pdb
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\obj\Debug\netcoreapp3.1\RestApiModeloDDD.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\obj\Debug\netcoreapp3.1\RestApiModeloDDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\obj\Debug\netcoreapp3.1\RestApiModeloDDD.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\obj\Debug\netcoreapp3.1\RestApiModeloDDD.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\obj\Debug\netcoreapp3.1\RestApiModeloDDD.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\obj\Debug\netcoreapp3.1\RestApiModeloDDD.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\obj\Debug\netcoreapp3.1\RestApiModeloDDD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\obj\Debug\netcoreapp3.1\RestApiModeloDDD.RazorAssemblyInfo.cache
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\obj\Debug\netcoreapp3.1\RestApiModeloDDD.RazorAssemblyInfo.cs
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\obj\Debug\netcoreapp3.1\staticwebassets\RestApiModeloDDD.StaticWebAssets.Manifest.cache
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\obj\Debug\netcoreapp3.1\staticwebassets\RestApiModeloDDD.StaticWebAssets.xml
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\obj\Debug\netcoreapp3.1\scopedcss\bundle\RestApiModeloDDD.styles.css
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\obj\Debug\netcoreapp3.1\RestApiModeloDDD.TagHelpers.input.cache
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\obj\Debug\netcoreapp3.1\RestApiModeloDDD.TagHelpers.output.cache
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\obj\Debug\netcoreapp3.1\RestApiModeloDDD.RazorCoreGenerate.cache
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\obj\Debug\netcoreapp3.1\RestApiModeloDDD.RazorTargetAssemblyInfo.cache
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\obj\Debug\netcoreapp3.1\RestApiModeloDDD.RazorTargetAssemblyInfo.cs
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Views.pdb
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\obj\Debug\netcoreapp3.1\RestApiModeloDDD.csproj.CopyComplete
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\obj\Debug\netcoreapp3.1\RestApiModeloDDD.dll
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\obj\Debug\netcoreapp3.1\RestApiModeloDDD.pdb
+C:\Users\Usuário\source\repos\Projetos API\RestApiModel\obj\Debug\netcoreapp3.1\RestApiModeloDDD.genruntimeconfig.cache

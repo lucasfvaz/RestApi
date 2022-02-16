@@ -1,0 +1,135 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RestApiModeloDDD.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/RestApiModeloDDD.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RestApiModeloDDD.Domain.dll": {}
+        }
+      },
+      "RestApiModeloDDD.Domain.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "RestApiModeloDDD.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RestApiModeloDDD.Domain.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RestApiModeloDDD.Domain.Core.dll": {}
+        }
+      },
+      "RestApiModeloDDD.Domain.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "RestApiModeloDDD.Domain.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RestApiModeloDDD.Domain.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RestApiModeloDDD.Domain.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RestApiModeloDDD.Domain/1.0.0": {
+      "type": "project",
+      "path": "../RestApiModel.Domain/RestApiModeloDDD.Domain.csproj",
+      "msbuildProject": "../RestApiModel.Domain/RestApiModeloDDD.Domain.csproj"
+    },
+    "RestApiModeloDDD.Domain.Core/1.0.0": {
+      "type": "project",
+      "path": "../RestApiModeloDDD.Domain.Core/RestApiModeloDDD.Domain.Core.csproj",
+      "msbuildProject": "../RestApiModeloDDD.Domain.Core/RestApiModeloDDD.Domain.Core.csproj"
+    },
+    "RestApiModeloDDD.Domain.Service/1.0.0": {
+      "type": "project",
+      "path": "../RestApiModeloDDD.Domain.Service/RestApiModeloDDD.Domain.Service.csproj",
+      "msbuildProject": "../RestApiModeloDDD.Domain.Service/RestApiModeloDDD.Domain.Service.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "RestApiModeloDDD.Domain.Core >= 1.0.0",
+      "RestApiModeloDDD.Domain.Service >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Usuário\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Usuário\\source\\repos\\Projetos API\\RestApiModeloDDD.Application\\RestApiModeloDDD.Application.csproj",
+      "projectName": "RestApiModeloDDD.Application",
+      "projectPath": "C:\\Users\\Usuário\\source\\repos\\Projetos API\\RestApiModeloDDD.Application\\RestApiModeloDDD.Application.csproj",
+      "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Usuário\\source\\repos\\Projetos API\\RestApiModeloDDD.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Usuário\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\Usuário\\source\\repos\\Projetos API\\RestApiModeloDDD.Domain.Core\\RestApiModeloDDD.Domain.Core.csproj": {
+              "projectPath": "C:\\Users\\Usuário\\source\\repos\\Projetos API\\RestApiModeloDDD.Domain.Core\\RestApiModeloDDD.Domain.Core.csproj"
+            },
+            "C:\\Users\\Usuário\\source\\repos\\Projetos API\\RestApiModeloDDD.Domain.Service\\RestApiModeloDDD.Domain.Service.csproj": {
+              "projectPath": "C:\\Users\\Usuário\\source\\repos\\Projetos API\\RestApiModeloDDD.Domain.Service\\RestApiModeloDDD.Domain.Service.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
